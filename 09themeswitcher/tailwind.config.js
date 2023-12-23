@@ -11,3 +11,4 @@ export default {
   plugins: [],
 }
 
+// Remember to chagne config in tailwind 
