@@ -1,0 +1,9 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.openPositioning": "first",
+    "workbench.editor.openSideBySideDirection": "down",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.limit.value": 10,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.editor.scrollToSwitchTabs": true
+}
